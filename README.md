@@ -1,7 +1,9 @@
 # Piano
 
-https://kevinwmiguel.github.io/Piano/
 A Piano online with sounds by pressing the keyboard
+<br>
+https://kevinwmiguel.github.io/Piano/
+
 
 Technologies I used: Javascript, HTML5 and CSS3
 
